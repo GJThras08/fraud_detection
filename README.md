@@ -1,3 +1,1 @@
 # fraud_detection
-
-test
